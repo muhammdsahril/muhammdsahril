@@ -18,16 +18,7 @@
 
 <h2 align="left">👨‍💻 About Me</h2>
 <p align="left">
-  I'm an efficient and precise trader with a strong focus on navigating volatile markets, particularly in the crypto space across both CEX and DEX platforms. My approach is rooted in data-driven analysis and strategic execution to optimize entry points and maximize returns.
-  <p align="left">
-    📈 Current Focus refining precise entry strategies for highly volatile markets, exploring advanced trading methodologies for crypto assets, Staying ahead of market trends and emerging opportunities 
-  </p>
-  <p align="left">
-    💻 Tech & Business Interests Beyond trading, I’m also expanding my knowledge in Next.js development and managing an online business. I enjoy learning new frameworks and leveraging technology to build scalable solutions.
-  </p>
-  <p align="left">
-    🚀 Continuous improvement is key—I actively seek out new insights, test strategies, and refine my approach to stay competitive in both trading and tech.
-  </p>
+  I am a passionate programmer who actively follows web development trends. I explore new technologies to build intuitive, efficient, and user-friendly applications. I enjoy solving problems, optimizing performance, and creating dynamic websites, including Web3 applications, to embrace the future of the internet.
 </p>
 <br>
 
