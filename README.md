@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://github.com/muhammdsahril/picture-source/blob/main/gif/ezgif.com-gif-maker.gif" height="200" width="200" class="white-svg"/>
   <h1 align="center">Hi 👋, I'm Muhammad Sahril</h1>
-  <h3 align="center">A passionate frontend developer from Indonesia</h3>
+  <h3 align="center">A passionate Frontend Developer</h3>
   
   ###
 
