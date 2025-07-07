@@ -1,12 +1,9 @@
 ###
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammdsahril&label=Profile%20views&color=0e75b6&style=flat" alt="muhammdsahril" /> </p>
-<div align="center">
-  <img src="https://github.com/muhammdsahril/picture-source/blob/main/gif/ezgif.com-gif-maker.gif" height="200" width="200" class="white-svg"/>
+<div>
   <h1 align="center">Hi 👋, I'm Muhammad Sahril</h1>
   <h3 align="center">A passionate Frontend Developer</h3>
   
-  ###
-
 <h2 align="left">👨‍💻 About Me</h2>
 <p align="left">
   I am a passionate programmer who actively follows web development trends. I explore new technologies to build intuitive, efficient, and user-friendly applications. I enjoy solving problems, optimizing performance, and creating dynamic websites, including Web3 applications, to embrace the future of the internet.
