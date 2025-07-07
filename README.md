@@ -9,8 +9,8 @@
                         align="center"
                         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
                         alt="mhmmadvshril"
-                        height="30"
-                        width="40"
+                        height="10"
+                        width="20"
                 />
         </a>
 </p>
