@@ -1,14 +1,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammdsahril&label=Profile%20views&color=0e75b6&style=flat" alt="muhammdsahril" /> </p>
 
-<h2>Muhammad Sahril</h2>
-<br>
----
+<div>
+  <h2>Muhammad Sahril</h2>
+  <p>Passionate on FrontEnd Developer</p>
+</div>
 <h2>👨‍💻 About Me</h2>
 <p>
   I am a passionate programmer who actively follows web development trends. I explore new technologies to build intuitive, efficient, and user-friendly applications. I enjoy solving problems, optimizing performance, and creating dynamic websites, including Web3 applications, to embrace the future of the internet.
 </p>
 <br>
-###
+
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=muhammdsahril" alt="muhammdsahril" />
