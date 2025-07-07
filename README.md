@@ -73,3 +73,10 @@
     height="40"
   />
 </p>
+<p>
+        <img
+          align="center"
+          src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammdsahril&show_icons=true&locale=en&layout=compact"
+          alt="muhammdsahril"
+        />
+</p>
