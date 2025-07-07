@@ -3,6 +3,25 @@
 
 <h1>👤 Muhammad Sahril</h1>
 <h5>I am a passionate programmer who actively follows web development trends. I explore new technologies to build intuitive, efficient, and user-friendly applications. I enjoy solving problems, optimizing performance, and creating dynamic websites, including Web3 applications, to embrace the future of the internet.</h5>
+<p>
+        <a href="https://instagram.com/mhmmadvshril" target="blank"
+          ><img
+            align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+            alt="mhmmadvshril"
+            height="30"
+            width="40"
+          />
+        </a>
+      </p>
+      <br />
+      <p>
+        <img
+          align="center"
+          src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammdsahril&show_icons=true&locale=en&layout=compact"
+          alt="muhammdsahril"
+        />
+      </p>
 <br>
 
 <h1>Tech Stack</h1>
