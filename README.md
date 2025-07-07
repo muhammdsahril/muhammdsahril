@@ -1,7 +1,4 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammdsahril&label=Profile%20views&color=0e75b6&style=flat" alt="muhammdsahril" /> </p>
-<h1>Hi 👋, I'm Muhammad Sahril</h1>
-<h1>A passionate Frontend Developer</h1>
-<br>
 
 <h2 align="left">👨‍💻 About Me</h2>
 <p align="left">
